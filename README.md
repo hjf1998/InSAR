@@ -20,6 +20,6 @@ goldstein_filtering.m的输入数据可以用jet2gray.m处理pic1.png得到
 
 ![滤波后图像](https://github.com/hjf1998/InSAR/blob/insar-filtering/wavelet_filtering_image.svg "小波滤波图像")
 
-相位导数变化图（考察干涉图质量的一种方式）
+相位导数变化图（考察干涉图质量的一种方式。相位导数标准偏差被认为是直接评价干涉图质量的有效测度，其值越大，说明干涉图质量越差。）
 
 ![滤波后图像](https://github.com/hjf1998/InSAR/blob/insar-filtering/grad_image.svg "相位导数变化图")
